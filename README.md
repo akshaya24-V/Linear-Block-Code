@@ -1,8 +1,16 @@
-# Linear-Block-Code
+# Experimental verification of Linear-Block-Code
 # Aim
 Write a simple python program to Generate Matrix, Codeword, Hamming weight, Syndrome matrix and find the error on received codeword using Linear block code. 
 # Tools required
-C0-Lab
+```
+Tools Required 
+Google Colab 
+Python 
+NumPy Library 
+Matplotlib Library 
+Internet Connection 
+Computer / Laptop
+```
 # Theory
 Linear Block Code is an error control coding technique used to detect and correct errors during data transmission. In this method, message bits are converted into codewords by adding parity bits using the Generator Matrix G.
 Generator Matrix:
